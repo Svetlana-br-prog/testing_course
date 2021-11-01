@@ -39,7 +39,7 @@ Response:
 Base URL:  https://rahulshettyacademy.com </br>
 Resource: /maps/api/place/get/json</br>
 Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response)</br>
-http method: POST</br>
+http method: GET</br>
 
 Response:
 ```json
@@ -61,7 +61,7 @@ Response:
 Base URL:  https://rahulshettyacademy.com </br>
 Resource: /maps/api/place/update/json </br>
 Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response) </br>
-http method: POST </br>
+http method: PUT </br>
 
 Sample Body:
 ```json
@@ -81,7 +81,7 @@ Response:
 Base URL:  https://rahulshettyacademy.com </br>
 Resource: /maps/api/place/update/json </br>
 Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response) </br>
-http method: POST </br>
+http method: DELETE </br>
 
 Sample Body:
 ```json
