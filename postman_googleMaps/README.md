@@ -1,10 +1,10 @@
 # Google Maps Add API
 
 - POST: </br>
-Base URL:  https://rahulshettyacademy.com 
-Resource: /maps/api/place/add/json
-Query Parameters: key=qaclick123
-http method: POST
+Base URL:  https://rahulshettyacademy.com </br>
+Resource: /maps/api/place/add/json</br>
+Query Parameters: key=qaclick123</br>
+http method: POST</br>
 
 Sample Body:
 ```json
@@ -36,10 +36,10 @@ Response:
 }
 ```
 - GET: </br>
-Base URL:  https://rahulshettyacademy.com 
-Resource: /maps/api/place/get/json
-Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response)
-http method: POST
+Base URL:  https://rahulshettyacademy.com </br>
+Resource: /maps/api/place/get/json</br>
+Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response)</br>
+http method: POST</br>
 
 Response:
 ```json
@@ -58,10 +58,10 @@ Response:
 }
 ```
 - PUT: </br>
-Base URL:  https://rahulshettyacademy.com 
-Resource: /maps/api/place/update/json
-Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response)
-http method: POST
+Base URL:  https://rahulshettyacademy.com </br>
+Resource: /maps/api/place/update/json </br>
+Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response) </br>
+http method: POST </br>
 
 Sample Body:
 ```json
@@ -78,10 +78,10 @@ Response:
 }
 ```
 - DELETE: </br>
-Base URL:  https://rahulshettyacademy.com 
-Resource: /maps/api/place/update/json
-Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response)
-http method: POST
+Base URL:  https://rahulshettyacademy.com </br>
+Resource: /maps/api/place/update/json </br>
+Query Parameters: key=qaclick123, place_id ( place_id  value comes from Add place response) </br>
+http method: POST </br>
 
 Sample Body:
 ```json
